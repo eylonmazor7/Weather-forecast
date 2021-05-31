@@ -1,4 +1,4 @@
-# Weather-forecast-website
+# Weather-forecast
 
 Authors: Eylon Mazor and Dor Rozin 
 
