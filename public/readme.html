@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Readme</title>
+</head>
+<body>
+
+<h1>Internet Course - Exercise 4</h1>
+<h2>Authors</h2>
+<ul>
+    <li>Dor Rozin</li>
+    <li>ID 205618267</li>
+    <li>dorro@edu.hac.ac.il</li>
+</ul>
+<ul>
+    <li>Eylon Mazor</li>
+    <li>ID 205438369</li>
+    <li>eylonma@edu.hac.ac.il</li>
+</ul>
+
+<h2>Execution</h2>
+<p>The submission is a WebStorm project that can be run directly from the IDE.</p>
+
+<h2>Assumptions</h2>
+<p>The site use bootstrap CDN therefore assumes an internet connection is available.</br>
+    The site uses an API service, therefore assumes the server is up and internet connection is available.</br>
+    The site is based on NodeJS Express, therefore assumes that the command "npm install" has taken place.</p>
+
+<h2>Notes</h2>
+<p>The project is a NodeJS Express project.</p>
+<p>Before running the project, the command "npm install" must take place.</p>
+<p>The project divided to few folders: public, routes and views (and other folders related to database).</br>
+The public folder contains images, stylesheets and all the client-side javascripts.</br>
+The routes folder contains all the server-side javascripts, include the router commands.</br>
+The views folder contains all the "Dynamic HTML" ejs pages, which will be the outcome which the user will see.</p>
+<p>The API we have used contain some shortcuts for weathers that we do not know.</br>
+Therefore, we have translated the shortcuts that we did figure out, and left the others as is.</p>
+
+<h2>Behaviours</h2>
+<p>We have set up few spacial behaviours in the website:
+<ul>
+    <li>When signing up, names should contain ONLY English letters.</li>
+    <li>Every address entered after localhost:3000/ will force a redirect and will present the login page.</li>
+    <li>If one user is logged in, any tries to register/login in a new tab will be redirected to weather page of the first user.</li>
+    <li>If two tabs are open at the weather page of a user, logging out in one of them will cause an </br>
+        immediate stop of database actions on the other tab. All client side functions will work, but nothing will be saved.</li>
+    <li>If a user logging off, no one can make database changes until a user is logging in.</li>
+    <li>Bottom line- only ONE user can be online!</li>
+</ul></p>
+
+<address>Submitted at January 23rd, 2021 </address>
+</body>
+</html>

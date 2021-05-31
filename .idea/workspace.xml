@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ce06858-357b-40d8-be47-bf58b44f66ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1mHPksmCM2ty6aqMyXkZgwOZC1f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.16" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mazor\Desktop\htmlThings\EX4\1012\1015\models" />
+      <recent name="C:\Users\mazor\Desktop\htmlThings\EX4\1012\1015\views" />
+      <recent name="C:\Users\mazor\Desktop\htmlThings\גםר\untitled\public\images" />
+      <recent name="C:\Users\mazor\Desktop\htmlThings\גםר\untitled\views" />
+      <recent name="C:\Users\mazor\Desktop\htmlThings\untitled\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\1015\public\images" />
+      <recent name="C:\Users\mazor\Desktop\htmlThings\untitled" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www">
+    <configuration name="bin\www JavaScript" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.bin\www JavaScript" />
+      <item itemvalue="Node.js.bin\www" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ce06858-357b-40d8-be47-bf58b44f66ec" name="Default Changelist" comment="" />
+      <created>1609147690156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609147690156</updated>
+      <workItem from="1609147692600" duration="7847000" />
+      <workItem from="1609155654524" duration="1519000" />
+      <workItem from="1609229343520" duration="4617000" />
+      <workItem from="1609235924359" duration="1205000" />
+      <workItem from="1609747918287" duration="10766000" />
+      <workItem from="1609760754020" duration="4441000" />
+      <workItem from="1609835590373" duration="8422000" />
+      <workItem from="1609916181104" duration="10927000" />
+      <workItem from="1610002788767" duration="3622000" />
+      <workItem from="1610266579148" duration="6582000" />
+      <workItem from="1610274460524" duration="36808000" />
+      <workItem from="1610528562806" duration="7411000" />
+      <workItem from="1610612720470" duration="10727000" />
+      <workItem from="1610651335632" duration="10000" />
+      <workItem from="1610705476437" duration="2216000" />
+      <workItem from="1610828428131" duration="4334000" />
+      <workItem from="1610876403766" duration="1707000" />
+      <workItem from="1610879068252" duration="5773000" />
+      <workItem from="1610890651319" duration="996000" />
+      <workItem from="1610915372087" duration="19506000" />
+      <workItem from="1611003487263" duration="2857000" />
+      <workItem from="1611046450396" duration="5115000" />
+      <workItem from="1611051661508" duration="1097000" />
+      <workItem from="1611052797718" duration="421000" />
+      <workItem from="1611053395094" duration="1168000" />
+      <workItem from="1611136123997" duration="2062000" />
+      <workItem from="1611147019051" duration="64000" />
+      <workItem from="1611147085769" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ex3-Mazor-Eylon/javaScript/ex3Func.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
